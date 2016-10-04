@@ -3,8 +3,8 @@
 Use these links to add to your site. Place after core token either header or footer 
 
 ```html 
-<script src="http://images.basementfinishingduluthsuperior.com/574/5-jquery.thinglink.js"></script>
-<link rel="stylesheet" type="text/css" href="http://images.basementfinishingduluthsuperior.com/574/thing-link.css" />
+<script src="http://b388022801b3244fdbae-c913073b3759fb31d6b728a919676eab.r15.cf1.rackcdn.com/v3/plugins/thing-link/jquery.thinglink.js"></script>
+<link rel="stylesheet" type="text/css" href="http://b388022801b3244fdbae-c913073b3759fb31d6b728a919676eab.r15.cf1.rackcdn.com/v3/plugins/thing-link/thing-link.css" />
 ``` 
 Next, lets call our plugin to our main message 
 
