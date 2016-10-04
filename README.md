@@ -7,3 +7,13 @@
       	$('#main-message').thingLink();
   });
 ```
+
+
+```js
+//these are all defaults
+$('#main-message').helloWorld({
+			main		: '#main-message > .row',
+			color        : null,
+			fontStyle    : null
+});
+```
