@@ -1,4 +1,4 @@
-# thingy-linky
+# Thingy Linky Plugin
 
 Use these links to add to your site. Place after core token either header or footer 
 
@@ -16,7 +16,7 @@ Next, lets call our plugin to our main message
   });
 ```
 
-If you want to change some content you have some options we can change. The icons are from font awesome.  Below are the default content. You don't have the change them all. You call whatever you need. 
+Below is the default content for the plugin. You can alter any section you like. The class names from the icons come from Font Awesome. 
 
 ```js
 $('#main-message').thingLink({
