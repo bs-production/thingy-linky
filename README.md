@@ -1,5 +1,13 @@
 # thingy-linky
 
+Use these links to add to your site. Place after core token either header or footer 
+
+```html 
+<script src="http://images.basementfinishingduluthsuperior.com/574/5-jquery.thinglink.js"></script>
+<link rel="stylesheet" type="text/css" href="http://images.basementfinishingduluthsuperior.com/574/thing-link.css" />
+``` 
+Next, lets call our plugin to our main message 
+
 
 ```js
    $(document).ready( function($) {
@@ -8,6 +16,7 @@
   });
 ```
 
+If you want to change some content you have some options we can change. The icons are from font awesome 
 
 ```js
 //these are all defaults
