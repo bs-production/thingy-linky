@@ -11,7 +11,7 @@
 
 ```js
 //these are all defaults
-$('#main-message').helloWorld({
+$('#main-message').thingLink({
 			main		: '#main-message > .row',
 			color        : null,
 			fontStyle    : null
